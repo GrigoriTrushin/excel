@@ -1,2 +1,4 @@
 .idea
-mode_modules
+git
+node_modules
+dist
